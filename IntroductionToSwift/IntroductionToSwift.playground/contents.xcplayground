@@ -5,5 +5,6 @@
         <page name='Checkpoint-1'/>
         <page name='TypeAnnotations'/>
         <page name='Checkpoint-2'/>
+        <page name='TrueOrFalse'/>
     </pages>
 </playground>
