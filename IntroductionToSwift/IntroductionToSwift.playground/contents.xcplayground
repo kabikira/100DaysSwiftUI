@@ -7,5 +7,6 @@
         <page name='Checkpoint-2'/>
         <page name='TrueOrFalse'/>
         <page name='MultipleConditions'/>
+        <page name='Switch'/>
     </pages>
 </playground>
