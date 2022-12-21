@@ -76,3 +76,19 @@ print("Welcome, \(username)!")
 if username.isEmpty {
     username = "Anonymous"
 }
+
+let firstName = "Paul"
+let secondName = "Sophie"
+
+let firstAge = 40
+let secondAge = 10
+
+print(firstName == secondName)
+print(firstName != secondName)
+print(firstName < secondName)
+print(firstName >= secondName)
+
+print(firstAge == secondAge)
+print(firstAge != secondAge)
+print(firstAge < secondAge)
+print(firstAge >= secondAge)
