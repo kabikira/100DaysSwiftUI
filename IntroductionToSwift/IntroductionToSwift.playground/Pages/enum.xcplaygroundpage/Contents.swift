@@ -25,3 +25,13 @@ enum Weekday {
 var day = Weekday.monday
 day = .tuesday
 day = .friday
+
+enum Sizes: Comparable {
+    case small
+    case medium
+    case large
+}
+
+let first = Sizes.small
+let second = Sizes.large
+print(first > second)
