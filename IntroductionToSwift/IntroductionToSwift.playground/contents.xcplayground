@@ -8,5 +8,6 @@
         <page name='TrueOrFalse'/>
         <page name='MultipleConditions'/>
         <page name='Switch'/>
+        <page name='ConditionalTernaryOperator'/>
     </pages>
 </playground>
