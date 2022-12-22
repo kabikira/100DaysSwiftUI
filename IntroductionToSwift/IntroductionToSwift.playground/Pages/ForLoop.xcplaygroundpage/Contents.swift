@@ -33,3 +33,18 @@ for _ in 1...5 {
 }
 
 print(lyric)
+
+
+let names = ["Sterling", "Cyril", "Lana", "Ray", "Pam"]
+
+for name in names {
+    print("\(name) is a secret agent")
+}
+
+print(names[0])
+
+
+print(names[1...3])
+print(names[1...])
+
+

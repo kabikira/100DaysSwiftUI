@@ -10,5 +10,7 @@
         <page name='Switch'/>
         <page name='ConditionalTernaryOperator'/>
         <page name='ForLoop'/>
+        <page name='WhileLoop'/>
+        <page name='BreakAndContinue'/>
     </pages>
 </playground>
