@@ -12,5 +12,6 @@
         <page name='ForLoop'/>
         <page name='WhileLoop'/>
         <page name='BreakAndContinue'/>
+        <page name='Checkpoint-3'/>
     </pages>
 </playground>
