@@ -9,5 +9,6 @@
         <page name='MultipleConditions'/>
         <page name='Switch'/>
         <page name='ConditionalTernaryOperator'/>
+        <page name='ForLoop'/>
     </pages>
 </playground>
