@@ -16,6 +16,7 @@
         <page name='Functions'/>
         <page name='ReturnValuesFunctions'/>
         <page name='MultipleValuesFunctions'/>
-        <page name='CustomzeParamerterLabels'/>
+        <page name='CustomizeParamerterLabels'/>
+        <page name='DefaultValuesPrameters'/>
     </pages>
 </playground>
