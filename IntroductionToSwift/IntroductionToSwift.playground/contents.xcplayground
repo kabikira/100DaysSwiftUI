@@ -15,5 +15,7 @@
         <page name='Checkpoint-3'/>
         <page name='Functions'/>
         <page name='ReturnValuesFunctions'/>
+        <page name='MultipleValuesFunctions'/>
+        <page name='CustomzeParamerterLabels'/>
     </pages>
 </playground>
