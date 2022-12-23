@@ -13,6 +13,7 @@
         <page name='WhileLoop'/>
         <page name='BreakAndContinue'/>
         <page name='Checkpoint-3'/>
-        <page name='Functons'/>
+        <page name='Functions'/>
+        <page name='ReturnValuesFunctions'/>
     </pages>
 </playground>
