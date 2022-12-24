@@ -20,6 +20,7 @@
         <page name='DefaultValuesPrameters'/>
         <page name='ErrorsInFunctions'/>
         <page name='Checkpoint-4'/>
-        <page name='Closure'/>
+        <page name='Closures'/>
+        <page name='TrailingClosures'/>
     </pages>
 </playground>
