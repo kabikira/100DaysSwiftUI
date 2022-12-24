@@ -48,3 +48,21 @@ case 2:
 default:
     print("A partridge in a pear tree")
 }
+
+
+enum CatProblems: Error {
+    case notACat
+    case unfriendly
+}
+func strokeCat(_ name: String) throws {
+    switch name {
+    case "Mr Betey":
+        throw CatProblems.unfriendly
+    case "Lassie":
+        throw CatProblems.notACat
+    default:
+        print("You strokd \(name).")
+    }
+}
+try strokeCat("Mr Betey")
+
