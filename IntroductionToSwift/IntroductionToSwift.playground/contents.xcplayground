@@ -22,5 +22,6 @@
         <page name='Checkpoint-4'/>
         <page name='Closures'/>
         <page name='TrailingClosures'/>
+        <page name='FunctionsParameters'/>
     </pages>
 </playground>
