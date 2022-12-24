@@ -18,5 +18,6 @@
         <page name='MultipleValuesFunctions'/>
         <page name='CustomizeParamerterLabels'/>
         <page name='DefaultValuesPrameters'/>
+        <page name='ErrorsInFunctions'/>
     </pages>
 </playground>
