@@ -19,5 +19,7 @@
         <page name='CustomizeParamerterLabels'/>
         <page name='DefaultValuesPrameters'/>
         <page name='ErrorsInFunctions'/>
+        <page name='Checkpoint-4'/>
+        <page name='Closure'/>
     </pages>
 </playground>
