@@ -23,7 +23,7 @@ func checkPassword(_ password: String) throws -> String {
         return "Excellent"
     }
 }
-print(checkPassword("123456"))
+print(try checkPassword("123456"))
 let string = "12345"
 
 do {
