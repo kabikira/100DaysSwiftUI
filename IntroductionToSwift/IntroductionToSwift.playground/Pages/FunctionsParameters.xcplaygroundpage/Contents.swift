@@ -52,3 +52,11 @@ doImportantWork {
 } third: {
     print("This is the third work")
 }
+
+func printPnada(printIn: () -> Void, name: String) -> Void {
+    print("Hello! \(name)")
+    printIn()
+}
+
+
+printPnada(printIn: { print("Hey!")}, name: "koara")
