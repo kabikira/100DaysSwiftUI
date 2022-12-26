@@ -24,5 +24,7 @@
         <page name='TrailingClosures'/>
         <page name='FunctionsParameters'/>
         <page name='Checkpoint-5'/>
+        <page name='Structs'/>
+        <page name='ComputeProperty'/>
     </pages>
 </playground>

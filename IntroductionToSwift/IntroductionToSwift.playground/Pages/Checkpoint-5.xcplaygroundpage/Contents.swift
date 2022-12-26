@@ -38,7 +38,9 @@ printNumbers(numbers: luckyNumbers) {
 
 func printNumbers2(numbers: [Int]) -> Void {
     print("Checkpoint5")
-    numbers.filter {$0 % 2 == 1}.sorted().map {print("\($0) is a lucky number")}
+    numbers.filter {$0 % 2 == 1}
+        .sorted()
+        .map {print("\($0) is a lucky number")}
 }
 
 printNumbers2(numbers: luckyNumbers)
