@@ -26,5 +26,6 @@
         <page name='Checkpoint-5'/>
         <page name='Structs'/>
         <page name='ComputeProperty'/>
+        <page name='PropertyChanges'/>
     </pages>
 </playground>
