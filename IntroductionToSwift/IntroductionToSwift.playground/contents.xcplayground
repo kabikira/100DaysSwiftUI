@@ -27,5 +27,7 @@
         <page name='Structs'/>
         <page name='ComputeProperty'/>
         <page name='PropertyChanges'/>
+        <page name='CustomInitializers'/>
+        <page name='Structs2Access'/>
     </pages>
 </playground>
