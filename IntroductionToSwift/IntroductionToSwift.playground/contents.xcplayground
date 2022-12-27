@@ -23,5 +23,13 @@
         <page name='Closures'/>
         <page name='TrailingClosures'/>
         <page name='FunctionsParameters'/>
+        <page name='Checkpoint-5'/>
+        <page name='Structs'/>
+        <page name='ComputeProperty'/>
+        <page name='PropertyChanges'/>
+        <page name='CustomInitializers'/>
+        <page name='Structs2Access'/>
+        <page name='Static-properties-and-methods'/>
+        <page name='Checkpoint-6'/>
     </pages>
 </playground>
