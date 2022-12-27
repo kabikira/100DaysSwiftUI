@@ -29,5 +29,7 @@
         <page name='PropertyChanges'/>
         <page name='CustomInitializers'/>
         <page name='Structs2Access'/>
+        <page name='Static-properties-and-methods'/>
+        <page name='Checkpoint-6'/>
     </pages>
 </playground>
