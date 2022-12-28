@@ -36,7 +36,7 @@ import Foundation
 struct Car {
     let model = "swift"
     let numSeats = 4
-    var currentGear = 1
+    private(set) var currentGear = 1
     mutating func gearUp() -> Void {
         if currentGear < 10 {
             currentGear += 1
@@ -58,3 +58,5 @@ struct Car {
 var car = Car()
 car.gearUp()
 car.gearDown()
+print(car.model)
+print(car.currentGear)
