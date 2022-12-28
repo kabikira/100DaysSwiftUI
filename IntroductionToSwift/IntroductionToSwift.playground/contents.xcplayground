@@ -31,5 +31,10 @@
         <page name='Structs2Access'/>
         <page name='Static-properties-and-methods'/>
         <page name='Checkpoint-6'/>
+        <page name='Classes'/>
+        <page name='ClassInherit'/>
+        <page name='Initializers-For-Classes'/>
+        <page name='How-to-copy-classes'/>
+        <page name='Deinitializer'/>
     </pages>
 </playground>
