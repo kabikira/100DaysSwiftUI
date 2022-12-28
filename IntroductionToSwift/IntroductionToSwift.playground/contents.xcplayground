@@ -36,5 +36,6 @@
         <page name='Initializers-For-Classes'/>
         <page name='How-to-copy-classes'/>
         <page name='Deinitializer'/>
+        <page name='Variables-inside-classes'/>
     </pages>
 </playground>
