@@ -38,5 +38,6 @@
         <page name='Deinitializer'/>
         <page name='Variables-inside-classes'/>
         <page name='Checkpoint-7'/>
+        <page name='Protocols'/>
     </pages>
 </playground>
