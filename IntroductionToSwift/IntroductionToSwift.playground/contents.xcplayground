@@ -40,5 +40,7 @@
         <page name='Checkpoint-7'/>
         <page name='Protocols'/>
         <page name='OpeaqueReturnTypes'/>
+        <page name='Extensions'/>
+        <page name='ProtocolExtensions'/>
     </pages>
 </playground>
