@@ -39,5 +39,6 @@
         <page name='Variables-inside-classes'/>
         <page name='Checkpoint-7'/>
         <page name='Protocols'/>
+        <page name='OpeaqueReturnTypes'/>
     </pages>
 </playground>
