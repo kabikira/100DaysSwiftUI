@@ -42,5 +42,6 @@
         <page name='OpeaqueReturnTypes'/>
         <page name='Extensions'/>
         <page name='ProtocolExtensions'/>
+        <page name='Checkpoint-8'/>
     </pages>
 </playground>
