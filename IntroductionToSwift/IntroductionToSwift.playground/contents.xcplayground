@@ -43,5 +43,7 @@
         <page name='Extensions'/>
         <page name='ProtocolExtensions'/>
         <page name='Checkpoint-8'/>
+        <page name='Optionals'/>
+        <page name='Guard'/>
     </pages>
 </playground>
