@@ -47,5 +47,6 @@
         <page name='Guard'/>
         <page name='UnwrappingOptionals'/>
         <page name='OptionalChaining'/>
+        <page name='OptionalTry'/>
     </pages>
 </playground>
