@@ -43,5 +43,11 @@
         <page name='Extensions'/>
         <page name='ProtocolExtensions'/>
         <page name='Checkpoint-8'/>
+        <page name='Optionals'/>
+        <page name='Guard'/>
+        <page name='UnwrappingOptionals'/>
+        <page name='OptionalChaining'/>
+        <page name='OptionalTry'/>
+        <page name='Checkpoint-9'/>
     </pages>
 </playground>

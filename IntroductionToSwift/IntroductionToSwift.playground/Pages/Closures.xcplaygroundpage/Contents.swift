@@ -50,8 +50,8 @@ func captainFirstSorted(name1: String, name2: String) -> Bool {
     return name1 < name2
 }
 
-let captainFirstTeam = team.sorted(by: captainFirstSorted)
-print(captainFirstTeam)
+//let captainFirstTeam = team.sorted(by: captainFirstSorted)
+//print(captainFirstTeam)
 
 
 let captainFirstTeam = team.sorted(by: { (name1: String, name2: String) -> Bool in
