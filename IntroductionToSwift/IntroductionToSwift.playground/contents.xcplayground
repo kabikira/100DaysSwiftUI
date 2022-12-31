@@ -45,5 +45,6 @@
         <page name='Checkpoint-8'/>
         <page name='Optionals'/>
         <page name='Guard'/>
+        <page name='UnwrappingOptionals'/>
     </pages>
 </playground>
