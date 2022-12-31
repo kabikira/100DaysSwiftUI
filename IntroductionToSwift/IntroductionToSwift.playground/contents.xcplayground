@@ -48,5 +48,6 @@
         <page name='UnwrappingOptionals'/>
         <page name='OptionalChaining'/>
         <page name='OptionalTry'/>
+        <page name='Checkpoint-9'/>
     </pages>
 </playground>
